@@ -14,7 +14,7 @@ This contract is designed to facilitate a secure, trustless environment for user
    - Users can deposit NFTs into the contract as collateral or withdraw them after loan repayment.
    
 ### 2. **Loan Creation**
-   - A lender can create a loan by offering an NFT as collateral and specifying the loan amount, interest rate, and loan term (expiry).
+   - A lender can create a loan by offering an NFT as collateral and specifying the loan amount, interest rate, and loan term.
    
 ### 3. **Loan Borrowing**
    - Borrowers can borrow NFTs by accepting the loan terms. The loan is backed by a specified amount of collateral in the form of NFTs.
